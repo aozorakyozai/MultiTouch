@@ -5,8 +5,13 @@ using UnityEngine.EventSystems;
 using UnityEngine.UI;
 using TMPro;
 using System;
-//using static System.Net.Mime.MediaTypeNames;
-
+/************************************************************
+ * スマホ画面操作
+ * 操作内容：Tap,Swipe,Flick,PinchOut,PinchIn,3Tap,4Tap
+ * ３Dオブジェクトをワールド座標で回転させる
+ * タップした場所のオブジェクトの色を変える
+ * 複数タップ状態からシングルタップ、スワイプ、フリックに継続しない仕様
+*************************************************************/
 
 public class Cube333 : MonoBehaviour
 {
