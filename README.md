@@ -1,6 +1,6 @@
 # MultiTouch
 
-Unity C#
+Unity C#  <br/>
 iphone android
 
 *＊＊＊　ジェスチャータイプ　＊＊＊＊
